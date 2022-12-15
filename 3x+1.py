@@ -1,3 +1,7 @@
+# This program is based on the famous mathematical problem - The Collatz Conjuncture problem or the 3x + 1 problem
+# Kindly use this program after giving credits the the original author
+# Author - @Shubhadip1004(Github)
+
 import sys
 import matplotlib.pyplot as plt
 x = int(input("Enter the number to be checked:"))
